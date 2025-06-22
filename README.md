@@ -251,3 +251,40 @@ background-image: linear-gradient(direction || angle, color1, color2, ...);
 * `:nth-child(n | even | odd)`
 * `:nth-of-type(n | even | odd)`
 * `:root`, `:checked`, `:empty`, `:disabled`, `:required`, `:focus`, `::selection`, `::placeholder`
+
+  Question: Can you explain the concept of specificity in CSS?
+
+-------
+
+What’s transform property?
+The transform property in CSS is used to apply 2D or 3D transformations to an element, such as rotating, scaling, translating (moving), or skewing it.
+
+---------
+
+ إيه الفرق بين em, rem, و px في CSS؟ وامتى تستخدم كل واحد؟
+
+------
+
+ إزاي الـ Critical Rendering Path بيأثر على سرعة تحميل الصفحة؟
+
+
+----
+
+
+ إيه هي الـ Paint & Layout في الـ Rendering Engine؟ وازاي تقلل تأثيرهم على الأداء؟
+
+
+-----
+
+ إيه الفرق بين z-index والـ stacking context في CSS؟
+
+
+-----
+
+ إزاي تتأكد إن موقعك Responsive لكل الشاشات؟
+
+
+-----
+
+✅ Flexbox و Grid (الفرق بينهم، وأفضل استخدام لكل واحد).
+
